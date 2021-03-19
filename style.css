@@ -1,0 +1,113 @@
+html 
+{
+	scroll-behavior: smooth;
+ }
+ 
+body
+{
+	font-family: 'Lato', sans-serif;
+	background-image: url("img/rewers.png");
+	margin:0;
+}
+
+
+.bg-menu
+{
+	background-color: white !important;
+	font-size:20px;
+}
+
+#g_slider
+{
+
+	height:80%;
+	width:100%;
+	text-align:center;
+}
+
+.opis
+{
+	font-size:16px;
+	text-align:justify;
+	padding:48px;
+}
+
+.profilowe_container
+	{
+		padding:48px;
+	}
+
+@media(max-width: 575px)
+{
+	.opis
+	{
+		margin: 0px 20px;
+		padding:20px;
+		font-size:15px;
+		
+	}
+	
+	.profilowe
+	{
+		padding:20px;
+	}
+	
+	.profilowe_container
+	{
+		padding: 0 48px;
+	}
+	
+	.nawi
+	{
+		margin-left:10px;
+	}
+}
+
+.oferta
+{
+	background-color: white ;
+}
+
+.one
+{
+
+	background-color: white;
+	min-height:200px;
+	
+}
+
+.two
+{
+	background-color:#b4cba0;
+	min-height:200px;
+}
+
+.three
+{
+	background-color:#91c4b4;
+	min-height:200px;
+}
+
+.six
+{
+	background-color:#8e99a4;
+	min-height:200px;
+}
+
+.seven
+{
+	background-color:#c98585;
+	min-height:200px;
+}
+
+.opinie
+{
+	background-color: white ;
+}
+
+
+
+
+
+
+
